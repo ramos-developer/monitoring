@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 85,
-    "timeWeek": 144,
-    "timeMonth": 157,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
+    "time": 215,
+    "timeDay": 101,
+    "timeWeek": 140,
+    "timeMonth": 156,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "Hacker News",
