@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/socios.ladehesasca.es",
     "slug": "socios-ladehesa",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
     "time": 670,
     "timeDay": 591,
     "timeWeek": 670,
@@ -114,9 +114,9 @@
     "url": "https://app.grupoquijada.com",
     "icon": "https://favicons.githubusercontent.com/app.grupoquijada.com",
     "slug": "app-prefabricados",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-10": 0
+    }
   },
   {
     "name": "ALGODO-TIENDA",
