@@ -114,9 +114,9 @@
     "url": "https://app.grupoquijada.com",
     "icon": "https://favicons.githubusercontent.com/app.grupoquijada.com",
     "slug": "app-prefabricados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
@@ -126,6 +126,7 @@
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-06-11": 21,
       "2022-06-10": 19
     }
